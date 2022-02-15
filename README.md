@@ -23,14 +23,11 @@ This app shows how developers can add images from the network to flutter app. Fu
 
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
       <div class="column">
-<img width ='800px' src 
-     ='bilgi yarışması1.png'>
+<img width ='350px' src 
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/bitcoin_app.png'>
 <hr class="dashed">
-<img width ='800px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Quiz_Show/main/bilgiyar%C4%B1%C5%9Fmas%C4%B12.png'>
-<hr class="dashed">
-<img width ='800px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Quiz_Show/main/bilgiyar%C4%B1%C5%9Fmas%C4%B13.png'>
+<img width ='80px' src 
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/bitcoin_icon.png'>
   </div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
