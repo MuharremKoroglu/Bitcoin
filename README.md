@@ -9,7 +9,7 @@ This app shows how developers can add images from the network to flutter app. Fu
 <div class="row">
       <div class="column">
 <img width ='72px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'>
   </div>
 </div>
 
